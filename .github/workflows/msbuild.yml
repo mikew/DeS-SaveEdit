@@ -36,4 +36,4 @@ jobs:
       with:
         name: bin
         path: |
-          DeS-SaveEdit\DeS-SaveEdit\bin
+          DeS-SaveEdit\bin
